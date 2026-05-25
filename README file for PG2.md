@@ -4,7 +4,7 @@ A simple command-line program written in Python that helps you manage a statione
 
 ---
 
-## 📋 Table of Contents
+# 📋 Table of Contents
 
 - [Requirements](#requirements)
 - [Files Included](#files-included)
