@@ -1,4 +1,6 @@
 Name,Quantity,Price,Total Price
-pen,2,5.5,11.0
-paper,4,4.5,18.0
-eraser,3,6.7,20.1
+Pen,170,1.2,204.0
+Pencil,250,0.8,200.0
+Eraser,100,0.5,50.0
+Glue Stick,100,1.1,110.0
+Writing Book,241,1.5,361.5
